@@ -18,4 +18,4 @@ REACT_APP_ADMIN_USER_ID = '<admin-userId>'
 ```
 
 3. Run `npm install`.
-4. Run `npm start` and go to http://localhost:3001/ on your browser to access the project.
+4. Run `npm start` and go to http://localhost:3006/ on your browser to access the project.
