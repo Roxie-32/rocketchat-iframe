@@ -133,7 +133,7 @@ const App = () => {
 
 					<div className="messages">
 						{/* For iframe to work properly in other URLs, `Restric access inside any iframe` setting should be disabled. */}
-						<iframe ref={iframeRef} src="https://writing-demo.dev.rocket.chat/?layout=embedded" title="embedroom"></iframe>
+						<iframe ref={iframeRef} src="<your-workspace-url>/?layout=embedded" title="embedroom"></iframe>
 					</div>
 				</div>
 			)}
